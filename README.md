@@ -1,72 +1,82 @@
-<h1>Hi, I'm Chaitanya Santosh! <br/><a  >Quality Analyst</a>, Cybersecurity Professional</a>
- 
-# 💼 Chaitanya Santosh Madadala - Portfolio
+# Chaitanya Santosh Madadala - Portfolio
 
-Welcome to my personal portfolio! I'm a **Security-focused Engineer** with over 3 years of experience in digital analytics, manual testing, and product/application security. This portfolio highlights my work, skills, and contributions in the field of cybersecurity and QA.
-
-## 🧑‍💻 About Me
-
-I'm proficient in secure SDLC, vulnerability assessments, and ethical hacking with tools like **Burp Suite, Metasploit, Nessus, Wireshark**, and more. I enjoy working on threat modeling, incident response, and penetration testing projects.
-
-Certified by Google in Cybersecurity and hands-on with testing and reporting methodologies, I'm passionate about making systems more secure and efficient.
-
-## 📁 Portfolio Structure
-```
-chaitanya-portfolio/
-├── index.html                 # Portfolio main page
-├── style/
-│   └── styles.css             # Custom styling
-├── assets/
-│   ├── images/                # Profile and project images
-│   └── docs/
-│       └── Chaitanya_Santosh_Resume.pdf
-├── projects/                 
-│   ├── keylogger-python/      # Keylogger project (Python)
-│   ├── iot-healthcare-system/ # IoT-based health monitoring
-│   └── prepaid-power-system/  # Coin-based power management
-└── scripts/
-    └── main.js                # JS interactions (if any)
-```
-
-## 🚀 Projects
-
-### [🔐 Keylogger Development (Python)](projects/keylogger-python/)
-- Captures keystrokes for educational and ethical hacking purposes
-- Implements encryption and stealth features
-- Focus on system programming and secure coding
-
-### [📡 IoT-Based Health Care Monitoring System](projects/iot-healthcare-system/)
-- Real-time vitals tracking using sensors (heart rate, temperature, oxygen)
-- Live video streaming for remote monitoring
-- Uses Python and IoT hardware (Raspberry Pi/Arduino)
-
-### [⚡ Prepaid Commercial Power Management](projects/prepaid-power-system/)
-- Arduino-based coin-activated electricity system
-- Displays power usage and credit tracking via LCD
-- Promotes energy savings and automation
-
-## 🛠️ Technical Skills
-- **Languages:** Python, C, C++, SQL
-- **Tools:** Burp Suite, Metasploit, Nessus, Wireshark, Netcat, Nmap, tcpdump, Splunk
-- **Tech:** Linux, Windows, GitHub, SDLC, OWASP Top 10, SIEM
-
-## 📜 Certifications
-- Google Cybersecurity Certificate (Coursera)
-- Cybersecurity Analyst Simulation - TCS
-- Embedded Systems Internship - ECIT
-- C & C++ Certification - APEC Institute
-- Digithon Certified Trainer - TITA
-
-## 🏆 Achievements
-- 3x Best Employee of the Month (2023–2024)
-- Best People Recognitions and Rewards (2022–2023)
-- Business Core Award (2023–2024)
-
-## 🤝 Let's Connect
-- **Email:** chaitanyasantosh111@gmail.com
-- **LinkedIn:** [chaitanya-santosh-madadala](https://www.linkedin.com/in/chaitanya-santosh-madadala-784b7835b/)
-- **GitHub:** [ChaitanyaSantosh](https://github.com/ChaitanyaSantosh)
+Welcome to my personal portfolio! I'm a **Security-focused Engineer** with over 3 years of experience in **digital analytics**, **QA**, and **cybersecurity**, specializing in **application security**, **penetration testing**, and **manual testing**.
 
 ---
 
-Thanks for visiting my portfolio! Feel free to explore and reach out if you'd like to collaborate or have any opportunities.
+## 🔍 About Me
+
+I'm passionate about securing digital experiences and building high-quality applications. From executing secure SDLC practices to performing vulnerability assessments, I've gained hands-on experience using tools like **Burp Suite**, **Metasploit**, **Wireshark**, and **Nessus**. I hold a **Google Cybersecurity Certificate** and have participated in multiple job simulations and certifications.
+
+---
+
+## 🧠 Skills
+
+- **Programming Languages:** Python, C, C++, SQL
+- **Cybersecurity Tools:** Burp Suite, Metasploit, Nessus, Wireshark, Nmap, tcpdump, Netcat
+- **Technologies:** Linux, Windows, Mac OS, GitHub, OWASP Top 10, SIEM, SDLC, STLC
+- **Other Tools:** Splunk, Blender 3D, JIRA
+
+---
+
+## 💼 Experience
+
+### Accenture (May 2023 – Present)
+**Measurement and Reporting Associate**  
+- Designed and optimized ad campaigns with custom audience segments.  
+- Delivered performance insights and managed customer care cases.
+
+### Accenture (Apr 2022 – May 2023)
+**QA Manual Tester**  
+- End-to-end application testing on Android, iOS, and Web.  
+- Created detailed test cases, performed sanity, regression, and localization testing.
+
+### TCS Forage (2024)
+**Cybersecurity Analyst (Simulation)**  
+- Worked on IAM and presented detailed reports aligning security goals with business objectives.
+
+---
+
+## 🛠️ Projects
+
+### 1. Keylogger Development (Python)
+- Captures keystrokes and stores encrypted logs locally.
+- Used for educational purposes to understand secure coding and ethical hacking techniques.
+
+### 2. IoT-Based Health Care Monitoring System
+- Built with Python, Raspberry Pi, and sensors.
+- Streams patient vitals and alerts to cloud services with live video.
+
+### 3. Prepaid Commercial Power Consumption System
+- Coin-operated power control system using Arduino.
+- Features credit tracking and automatic power cut-off.
+
+---
+
+## 📜 Certifications
+
+- Google Cybersecurity Certificate (Coursera)
+- Cybersecurity Analyst Simulation (TCS Forage)
+- Embedded Systems Internship (ECIT)
+- Digithon Certified Trainer (TITA)
+- C & C++ Certification (APEC)
+
+---
+
+## 🏆 Achievements
+
+- Best Employee of the Month (3x in 2023–24)
+- Business Core Award 2023
+- Recognized in Accenture's People Rewards (2022–23)
+
+---
+
+## 🔗 Connect with Me
+
+- 📧 Email: [chaitanyasantosh111@gmail.com](mailto:chaitanyasantosh111@gmail.com)
+- 💼 LinkedIn: [chaitanya-santosh-madadala](https://www.linkedin.com/in/chaitanya-santosh-madadala-784b7835b/)
+- 🧑‍💻 GitHub: [ChaitanyaSantosh](https://github.com/ChaitanyaSantosh)
+
+---
+
+Thanks for visiting! 🙌
